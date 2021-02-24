@@ -1,4 +1,4 @@
-# CPU32
+# CPU__32
 
 A tiny MIPS implementation for Terasic DE0/DEx and other Altera FPGA boards
 
